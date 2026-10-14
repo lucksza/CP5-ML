@@ -1,0 +1,9 @@
+# Bibliotecas usadas pelo notebook (todas já vêm instaladas no Google Colab).
+# Execução registrada: numpy 2.4.6 · pandas 3.0.6 · scikit-learn 1.9.1 · torch 2.14.1+cu130 · matplotlib 3.11.2
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.3
+torch>=2.2
+matplotlib>=3.8
+# Para executar localmente com GPU NVIDIA, instale o torch com CUDA pelo índice oficial, por exemplo:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu130

@@ -1,0 +1,46 @@
+{
+  "limiar": 0.92,
+  "linhas_usadas": 455,
+  "removidas": [
+    "perimeter_mean",
+    "area_mean",
+    "concave points_mean",
+    "perimeter_se",
+    "area_se",
+    "radius_worst",
+    "perimeter_worst",
+    "area_worst"
+  ],
+  "mantidas": [
+    "radius_mean",
+    "texture_mean",
+    "smoothness_mean",
+    "compactness_mean",
+    "concavity_mean",
+    "symmetry_mean",
+    "fractal_dimension_mean",
+    "radius_se",
+    "texture_se",
+    "smoothness_se",
+    "compactness_se",
+    "concavity_se",
+    "concave points_se",
+    "symmetry_se",
+    "fractal_dimension_se",
+    "texture_worst",
+    "smoothness_worst",
+    "compactness_worst",
+    "concavity_worst",
+    "concave points_worst",
+    "symmetry_worst",
+    "fractal_dimension_worst"
+  ],
+  "mesma_lista_que_no_conjunto_completo": true,
+  "par_mais_proximo_do_limiar": {
+    "par": [
+      "concavity_mean",
+      "concave points_mean"
+    ],
+    "abs_r_treino": 0.9206
+  }
+}
